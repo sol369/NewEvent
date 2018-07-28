@@ -1,0 +1,301 @@
+PODS:
+  - AFDateHelper (4.2.7)
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - AlamofireNetworkActivityIndicator (2.2.1):
+    - Alamofire (~> 4.7)
+  - AZDialogView (1.2.1)
+  - BPStatusBarAlert (0.1.5)
+  - ColorSlider (4.1.2)
+  - Crashlytics (3.10.3):
+    - Fabric (~> 1.7.8)
+  - DTPagerController (2.0.1)
+  - Fabric (1.7.8)
+  - FaceAware (1.4.0)
+  - Firebase/Auth (5.4.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (= 5.0.2)
+  - Firebase/Core (5.4.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.0.1)
+  - Firebase/CoreOnly (5.4.0):
+    - FirebaseCore (= 5.0.5)
+  - Firebase/Database (5.4.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (= 5.0.2)
+  - Firebase/Messaging (5.4.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.0.3)
+  - Firebase/Storage (5.4.0):
+    - Firebase/CoreOnly
+    - FirebaseStorage (= 3.0.0)
+  - FirebaseAnalytics (5.0.1):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseAuth (5.0.2):
+    - FirebaseCore (~> 5.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (5.0.5):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseDatabase (5.0.2):
+    - FirebaseCore (~> 5.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (3.1.1):
+    - FirebaseCore (~> 5.0)
+  - FirebaseMessaging (3.0.3):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
+  - FirebaseStorage (3.0.0):
+    - FirebaseCore (~> 5.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GeoFire (3.0.0):
+    - Firebase/Database (~> 5.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - GoogleToolboxForMac/Logger (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.4)":
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - GTMSessionFetcher/Core (1.1.15)
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - Instabug (8.0.2):
+    - Instabug/Instabug (= 8.0.2)
+    - Instabug/InstabugCore (= 8.0.2)
+  - Instabug/Instabug (8.0.2):
+    - Instabug/InstabugCore
+  - Instabug/InstabugCore (8.0.2)
+  - InstantSearch (2.1.3):
+    - InstantSearch/UI (= 2.1.3)
+  - InstantSearch/UI (2.1.3):
+    - InstantSearchCore (~> 3.2)
+  - InstantSearchClient (5.3.0)
+  - InstantSearchCore (3.3.0):
+    - InstantSearchClient (~> 5.0)
+  - IQKeyboardManagerSwift (6.0.4)
+  - JTAppleCalendar (7.1.5)
+  - leveldb-library (1.20)
+  - MarqueeLabel/Swift (3.1.6)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - NotificationBannerSwift (1.6.3):
+    - MarqueeLabel/Swift
+    - SnapKit (~> 4.0)
+  - Protobuf (3.6.0)
+  - RecordButton (1.0.2)
+  - RevealingSplashView (0.5.0)
+  - ScrollableSegmentedControl (1.3.0)
+  - SimpleImageViewer (1.1.1)
+  - SnapKit (4.0.0)
+  - SnapSliderFilters (2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftLocation (3.2.3):
+    - SwiftyJSON (~> 4.0.0-alpha.1)
+  - SwiftyCam (2.7.0)
+  - SwiftyJSON (4.0.0)
+  - SwipeCellKit (2.4.3)
+  - TextFieldEffects (1.4.0)
+  - XLActionController/Core (4.0.1)
+  - XLActionController/Twitter (4.0.1):
+    - XLActionController/Core
+  - YNSearch (2.3.1)
+
+DEPENDENCIES:
+  - AFDateHelper
+  - Alamofire
+  - AlamofireImage
+  - AlamofireNetworkActivityIndicator
+  - AZDialogView
+  - BPStatusBarAlert
+  - ColorSlider
+  - Crashlytics
+  - DTPagerController
+  - Fabric
+  - FaceAware
+  - Firebase/Auth
+  - Firebase/Core
+  - Firebase/Database
+  - Firebase/Messaging
+  - Firebase/Storage
+  - GeoFire (from `https://github.com/firebase/geofire-objc.git`)
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - IGListKit (from `https://github.com/Instagram/IGListKit.git`, branch `master`)
+  - Instabug
+  - InstantSearch
+  - IQKeyboardManagerSwift
+  - JTAppleCalendar (from `https://github.com/patchthecode/JTAppleCalendar.git`, branch `master`)
+  - NotificationBannerSwift
+  - RecordButton
+  - RevealingSplashView
+  - ScrollableSegmentedControl (~> 1.3.0)
+  - SimpleImageViewer (~> 1.1.1)
+  - SnapSliderFilters
+  - SVProgressHUD
+  - SwiftLocation
+  - SwiftyCam (from `https://github.com/Awalz/SwiftyCam.git`, branch `Swift4`)
+  - SwiftyJSON
+  - SwipeCellKit (from `https://github.com/SwipeCellKit/SwipeCellKit.git`, branch `master`)
+  - TextFieldEffects
+  - XLActionController/Twitter
+  - YNSearch
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFDateHelper
+    - Alamofire
+    - AlamofireImage
+    - AlamofireNetworkActivityIndicator
+    - AZDialogView
+    - BPStatusBarAlert
+    - ColorSlider
+    - Crashlytics
+    - DTPagerController
+    - Fabric
+    - FaceAware
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FirebaseStorage
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - GoogleToolboxForMac
+    - GTMSessionFetcher
+    - Instabug
+    - InstantSearch
+    - InstantSearchClient
+    - InstantSearchCore
+    - IQKeyboardManagerSwift
+    - leveldb-library
+    - MarqueeLabel
+    - nanopb
+    - NotificationBannerSwift
+    - Protobuf
+    - RecordButton
+    - RevealingSplashView
+    - ScrollableSegmentedControl
+    - SimpleImageViewer
+    - SnapKit
+    - SnapSliderFilters
+    - SVProgressHUD
+    - SwiftLocation
+    - SwiftyJSON
+    - TextFieldEffects
+    - XLActionController
+    - YNSearch
+
+EXTERNAL SOURCES:
+  GeoFire:
+    :git: https://github.com/firebase/geofire-objc.git
+  IGListKit:
+    :branch: master
+    :git: https://github.com/Instagram/IGListKit.git
+  JTAppleCalendar:
+    :branch: master
+    :git: https://github.com/patchthecode/JTAppleCalendar.git
+  SwiftyCam:
+    :branch: Swift4
+    :git: https://github.com/Awalz/SwiftyCam.git
+  SwipeCellKit:
+    :branch: master
+    :git: https://github.com/SwipeCellKit/SwipeCellKit.git
+
+CHECKOUT OPTIONS:
+  GeoFire:
+    :commit: 7bc124db5d7c428bffe7ee4bd10ea9ad55f54523
+    :git: https://github.com/firebase/geofire-objc.git
+  IGListKit:
+    :commit: c5f64061a0acec806bae9c1809c13050b1ab3e82
+    :git: https://github.com/Instagram/IGListKit.git
+  JTAppleCalendar:
+    :commit: b6f4518302ae48dd6160b7b366cbd86e9b769b22
+    :git: https://github.com/patchthecode/JTAppleCalendar.git
+  SwiftyCam:
+    :commit: 56848489531e1343fecf7244bb87af1a5a343e1c
+    :git: https://github.com/Awalz/SwiftyCam.git
+  SwipeCellKit:
+    :commit: f8a53daa475770a05fa64cef4d42fb5b4362f32c
+    :git: https://github.com/SwipeCellKit/SwipeCellKit.git
+
+SPEC CHECKSUMS:
+  AFDateHelper: 4ad66fb19503041fbba8a3018cb7ef9c71b2ff88
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  AlamofireNetworkActivityIndicator: aeac50e6ecb78ec71a5f1f29098bcf4ec2962910
+  AZDialogView: 75a481ef11e78b047e9d7d212a83b76a8d91627f
+  BPStatusBarAlert: 0bc567e3a0f740189239f49c6c516bd61cb3c758
+  ColorSlider: 6ad9a2b1ff168ba2f8c3265e9d4fe5ea3575cb7c
+  Crashlytics: 2aea305161a2122492698c75af27f2b98aa49a25
+  DTPagerController: 4b4bb13ebe2e462f11416778ddc9fb09e9cf80fe
+  Fabric: fba4684a95df789565b0b27fc5b6e68f1755af32
+  FaceAware: 94410295a219c4a397ce525eab0063d6b17258aa
+  Firebase: d66f4f29c23f22d96808d9abc174d81d8eee968f
+  FirebaseAnalytics: b3628aea54c50464c32c393fb2ea032566e7ecc2
+  FirebaseAuth: 096e457cdd4274412a66c4a35874787e411f5a03
+  FirebaseCore: 42b3267233bd21a5abd54117ccc38ca3dd0f8e83
+  FirebaseDatabase: 27be5ac5bc75e0b17537b2bbfada8258addcc8cd
+  FirebaseInstanceID: f3f0657372592ecdfdfe2cac604a5a75758376a6
+  FirebaseMessaging: f43eb0c0e1da096e659de6f713038e74862a62cd
+  FirebaseStorage: 7ca4bb7b58a25fa647b04f524033fc7cb7eb272b
+  GeoFire: e3ae6f4be3f2466c3467ef6c1c203db3af935c59
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  GTMSessionFetcher: 5fa5b80fd20e439ef5f545fb2cb3ca6c6714caa2
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  Instabug: 4035e184559739a81139a9378649eb3d1e54a772
+  InstantSearch: 4e30463b32cb9782a8210fd6fc8559ce05cdb077
+  InstantSearchClient: 2b70bd14817d5c35cfb1e8b65b7801b3cbd2f537
+  InstantSearchCore: bdbc9e62e337f16b7636310ea004e756eb1a1dba
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  JTAppleCalendar: df0df2b055ba4c6d5940ef4f40a0f4270ea021ac
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  MarqueeLabel: 0c41f08ef5773e29c0f71064a8fa788a2fd8b365
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  NotificationBannerSwift: b231e4c3244848ef300e1c53ce027b9756b9b06f
+  Protobuf: 0fc0ad8bec688b2a3017a139953e01374fedbd5f
+  RecordButton: 76677be0f4b94f8a387454a23b4b64bd9b6c0e51
+  RevealingSplashView: 0794eecad3a8983ac11a1fe474e9a9b51b926780
+  ScrollableSegmentedControl: a90ae91537fd670a46b177301d035223e3bd149e
+  SimpleImageViewer: 34c3a2cde2d9ac022146772cefc27fca14b0c8b1
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SnapSliderFilters: 7f571683b05cf70b8d398e4a0e45691bd9f03a33
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftLocation: a3c3bc2023118171ef3572188a31def94aa0892c
+  SwiftyCam: 7c826b73a5b208677aee29390582c771bf748661
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SwipeCellKit: cee9906e6d3a36e22ad1a852fba7f8fa0839d113
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+  XLActionController: 007868251c0eed70d649d06c1625259b73b3a600
+  YNSearch: 3a6e0a69cfd34a7c5a7c77e0873f426de4437824
+
+PODFILE CHECKSUM: 1adc84b181094b88120cba62ca708bbd82951a0b
+
+COCOAPODS: 1.5.3
